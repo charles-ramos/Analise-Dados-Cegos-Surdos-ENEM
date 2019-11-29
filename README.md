@@ -1,4 +1,4 @@
-# Análise de Dados - Levantamento Cegos e Surdos que realizaram a prova do ENEM
+# Análise de Dados - Levantamento dos deficientes visuais e auditivos que realizaram a prova do ENEM.
 
 ## Equipe
 Charles Ramos: https://github.com/charles-ramos
