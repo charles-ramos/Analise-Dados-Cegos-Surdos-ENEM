@@ -11,7 +11,9 @@ O trabalho consiste em uma análise de dados referente ao número de deficientes
 Para isso foram utilizados dados presentes no site do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), os quais podem ser baixados no site http://inep.gov.br/microdados.
 
 ## Análise
-A análise foi realizada na linguagem Python utilizando o ambiente Jupyter Notebook. Os arquivos disponíveis no site do INEP estão no formato (.csv) e foram lidos através da biblioteca chamada "pandas".
+A análise foi realizada na linguagem Python utilizando o ambiente Jupyter Notebook.
+
+Os arquivos utilizados estão disponíveis no site do INEP estão no formato (.csv) e foram lidos através da biblioteca chamada "pandas".
 
 Após a leitura dos arquivos, foram gerados dois gráficos (cada um referente a uma deficiência) mostrando o montante de deficientes a cada ano.
 
