@@ -1,6 +1,6 @@
 # Análise de Dados - Levantamento Cegos e Surdos que realizaram a prova do ENEM
 
-Equipe
+## Equipe
 Charles Ramos: https://github.com/charles-ramos
 
 Renan Vitor: https://github.com/RenanVitor
